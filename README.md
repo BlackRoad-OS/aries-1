@@ -132,3 +132,22 @@ Indy SDK. If you are already using the Indy SDK to build a decentralized
 identity solution, you can keep using it knowing that it will continue to be
 maintained. If and when the Indy SDK is fully or partially deprecated, a
 transition process will be communicated.
+
+---
+
+## 📜 License & Copyright
+
+**Copyright © 2026 BlackRoad OS, Inc. All Rights Reserved.**
+
+**CEO:** Alexa Amundson | **PROPRIETARY AND CONFIDENTIAL**
+
+This software is NOT for commercial resale. Testing purposes only.
+
+### 🏢 Enterprise Scale:
+- 30,000 AI Agents
+- 30,000 Human Employees
+- CEO: Alexa Amundson
+
+**Contact:** blackroad.systems@gmail.com
+
+See [LICENSE](LICENSE) for complete terms.
